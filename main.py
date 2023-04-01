@@ -18,3 +18,5 @@ with col2:
     Below you can find some of te apps I have build in Python. Feel free to contact me!
     """
     st.write(content2)
+
+    print("Hello")
